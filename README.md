@@ -82,6 +82,3 @@ Tanjila Tasnim Punna
 
 Computer Graphics Lab Project
 
----
-
-⭐ If you like this project, consider giving it a star on GitHub.
